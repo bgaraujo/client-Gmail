@@ -1,0 +1,40 @@
+body{
+	background-color: #E0E0E0;
+    margin: 0;
+}
+.title{
+	background-color: #000;
+    color: #fff;
+    padding: 10px;
+}
+.title a{
+	    float: right;
+}
+
+.page{
+	width: 900px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #fff;
+	padding: 20px;
+
+	box-shadow: 10px 10px 5px #888888;
+}
+
+ul,li{
+	text-decoration: none;
+	display: inline;
+}
+li{
+	padding: 5px;
+    background-color: #6DA96F;
+    color: #fff;
+    border-radius: 3px;
+    margin: 1px;
+}
+
+.email {
+	margin-bottom: 50px;
+	padding:0px;
+	border:1px solid #3f7f00;
+}
